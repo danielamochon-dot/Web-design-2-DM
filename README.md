@@ -6,4 +6,4 @@
 </a>
 <a href="https://www.publicdomainpictures.net/en/view-image.php?image=210125&picture=venice-polizia">
     <img src="Venice 3.jpg" alt="Description of the image" width="300">
-</a># Web-design-2-DM
+</a>
